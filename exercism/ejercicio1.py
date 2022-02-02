@@ -8,3 +8,13 @@ for item in cantidad:
     print(cantidad[item])
     
 print(f'valor a pagar {valor}')
+
+x = 10
+
+def variables():
+    x = 20
+    print(x)
+
+print(x)
+    
+variables()    
