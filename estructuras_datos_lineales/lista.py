@@ -1,3 +1,4 @@
+#nuevo curso de python estructuras de datos lineales
 gatos = ['puka', 'rochy', 'uva', 25]
 frutas = ['melon', 'pera', 'uva', 'fresa']
 
