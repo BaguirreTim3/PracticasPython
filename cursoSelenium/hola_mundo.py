@@ -23,4 +23,4 @@ class HelloWorld(unittest.TestCase):
 
 if __name__ == "__main__":
     
-    unittest.main(verbosity = 2, testRunner = HTMLTestRunner(output= 'Report', report_name='Report Hello_World'                 ))
+    unittest.main(verbosity = 2, testRunner = HTMLTestRunner(output= 'Report', report_name='Report Hello_World'))
