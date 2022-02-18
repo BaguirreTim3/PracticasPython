@@ -35,5 +35,6 @@ for i in range(0, len(productos)):
     suma += precio
     
     
-print(suma)    
-      
+print(suma)  
+
+print(5 + 6)
